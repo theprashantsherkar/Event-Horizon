@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./Bg.css"; // Add a CSS file for styles
-import Leaderboard from "./leaderboard";
+import Leaderboard from "./Leaderboard";
 
 const Bg = () => {
   const starCount = 300
